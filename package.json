@@ -1,0 +1,14 @@
+{
+  "name": "ac-qrcode",
+  "version": "1.0.0",
+  "description": "our private scanner module for our great App!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-camera": "^0.7.0"
+  },
+  "author": "Spring J Phoenix",
+  "license": "MIT"
+}
